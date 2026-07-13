@@ -46,11 +46,12 @@ Independentemente do tema (Hamburgueria, Açaí ou Salão), o programa segue est
 
 
 ### 🌆 Tarde (Segunda e Terça)
-* | Gabriel Carvalho | Gustavo | Nicolas | Felipe | Kauan | Victor |  <!-- Nosso grupo>
+* | Gabriel Carvalho | Gustavo | Nicolas | Felipe | Kauan | Victor |  <!-- Nosso grupo-->
 * | Leandro Xavier |Rebeca Del Negro| Ellis Oliveira | Daniel Souza | Manuela Andrade |<!--nosso grupo-->
-<!---->
-<!---->
+* | Giovana Medeiros | Gabriel Aquino | Lucas Prates | Rafael Aquino | Arthur Cordeiro | <!--nosso grupo-->
+* | Nicolly Gonçalves | Paulo Nascimento | Richard Pimenta | Thalya Alcantara | Thierry Duarte | Yuri Santana |<!--Desconnhecidos-->
 * | Leonardo Sales |
+
 ---
 
 ## 📂 Projetos por Tema
@@ -68,17 +69,15 @@ Independentemente do tema (Hamburgueria, Açaí ou Salão), o programa segue est
 * | Beatriz O., Clara, João, Maria F.
 * | Claudomiro S., Richard P.
 * | Julio I., Miguel A.
-<!-- vazio -->
-<!-- vazio -->
-<!-- vazio -->
-<!-- vazio -->
-<!-- vazio -->
-* **✂️ Barbearia * ** Gabriel Carvalho, Nicolas, Kauan, Felipe, Gustavo, Victor -->
+<!--vazio-->
+<!--vazio-->
+<!--vazio-->
+<!--vazio-->
+* **✂️ Barbearia * ** Gabriel Carvalho, Nicolas, Kauan, Felipe, Gustavo, Victor
 * ** 🍔 Hamburgeria:** Leandro C.| Rebeca N.| Daniel S.| Ellis O.| Manuella A.
-<!-- vazio -->
-<!-- vazio -->
+* **🍔 Hambúrgueria:** Giovana Medeiros | Gabriel Aquino | Lucas Prates | Rafael Aquino | Arthur Cordeiro 
+<!--Rebecca-->
 * ** ✂ Barbearia:** Leonardo Sales
-
 <!-- * **🍧 Açaí:** Anthony, C. Adriano, Luan S. | Cauã, Juan, Pedro H. | Guilherme, Gustavo, Leonardo, Wilson | Lorenzo, Luis, Maxuel. espaço do Felipe mendes e do Igor feitas -->
 <!-- * **🥖 Padaria:** Kauã, Miguel M. | Fellipe, Gustavo R., Juliana, Lana. espaço do diogo -->
 <!-- * **🍽️ Restaurante:** Alicya, Ana, Larissa, Nicolly, Thalya, Thierry. espaço da Bea -->
