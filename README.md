@@ -36,17 +36,21 @@ Independentemente do tema (Hamburgueria, Açaí ou Salão), o programa segue est
 ## 👥 Participantes Organizados
 
 ### 🌅 Manhã (Segunda e Terça)
-
 * | Nathan Dias |
-* | Anthony Bezerra | Beatriz Borges | C. Adriano | Cauã José | Diego Farias | Gabriel Lima |
+* | Felipe Mendes| Igor Freitas <!--Colocado Nosso Nome-->
 * | Gabriele Campos | Henrique Souza | Juan Pablo | Laís Seiji | Marcos Nobre |
 * | Maria Matos | Pedro Henrique | Rafael Araújo | Rychard Rodrigues | Samuel Paiva | Vinicius Batista |
-* |
+* |<!---->
+* |<!---->
 * | Geovana Leite | Gabrielly Santos
 
 
 
 
+
+
+
+*
 
 ### 🌆 Tarde (Segunda e Terça)
 * | Alicya Duarte | Allan Costa | Ana Nascimento | Claudomiro Santos | Davi Lima | Fellipe Lima |
@@ -58,6 +62,9 @@ Independentemente do tema (Hamburgueria, Açaí ou Salão), o programa segue est
 
 ## 📂 Projetos por Tema
 
+
+<!-- * **🍔 Hamburgueria:** espaço do natan -->
+
 * **💈 Barbearia:** Nathan Dias
 * **🍧 Açaí:** Anthony, C. Adriano, Luan S. | Cauã, Juan, Pedro H. | Guilherme, Gustavo, Leonardo, Wilson | Lorenzo, Luis, Maxuel.
 * **🥖 Padaria:** Kauã, Miguel M. | Fellipe, Gustavo R., Juliana, Lana.
@@ -65,17 +72,28 @@ Independentemente do tema (Hamburgueria, Açaí ou Salão), o programa segue est
 * **✂️ Barbearia:** Allan, Igor, Milena, Yuri.
 * **💄 Salão de Beleza:** Michelle, Rafaela, Stefani.
 <!-- * **🍔 Hamburgueria:** Marcos, Samuel, Diego espaço do Nathan -->
+
 * | Gabriel L., Gabriele C., Maria M., Vinicius B.
 * | Gabriela L., Henrique S., Laís R., Rychard R.
 * | Beatriz O., Clara, João, Maria F.
 * | Claudomiro S., Richard P.
 * | Julio I., Miguel A.
+
+<!-- * **👻espaço do felipe e do igor -->
+<!-- * **🥖 Padaria:** espaço do diogo -->
+<!-- restaurante: espaço da bea -->
+<!-- * **✂️ Barbearia:** espaço da isa -->
+<!-- * **💄 Salão de Beleza:**espaço do pedro -->
+<!-- 🍊espaço da geovana -->
+
+
 <!-- * **🍧 Açaí:** Anthony, C. Adriano, Luan S. | Cauã, Juan, Pedro H. | Guilherme, Gustavo, Leonardo, Wilson | Lorenzo, Luis, Maxuel. espaço do Felipe mendes e do Igor feitas -->
 <!-- * **🥖 Padaria:** Kauã, Miguel M. | Fellipe, Gustavo R., Juliana, Lana. espaço do diogo -->
 <!-- * **🍽️ Restaurante:** Alicya, Ana, Larissa, Nicolly, Thalya, Thierry. espaço da Bea -->
 <!-- * **✂️ Barbearia:** Allan, Igor, Milena, Yuri. espaço da Isa -->
 <!-- * **💄 Salão de Beleza:** Michelle, Rafaela, Stefani. espaço do Pedro -->
 <!-- espaço da Geovana Leite e Gabrielly Santos -->
+
 ---
 
 ## 💻 Exemplos de Código (Python)
